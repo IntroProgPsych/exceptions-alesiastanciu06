@@ -1,0 +1,11 @@
+
+# 1.try 2.except 3.else 4.finally
+
+try:
+    print(1/1)
+except:
+    print("You can't divide by zero!")
+else:
+    print("All is good! ")
+finally:
+    print("this is the end. ")
